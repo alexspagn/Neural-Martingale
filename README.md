@@ -2,9 +2,7 @@
 
 Authors: Luca Galimberti, Anastasis Kratsios, Giulia Livieri, Alessio Spagnoletti
 
-Date: 08/07/2023
-
-This repository contains the codes for the implementations and numerical experimentations of the paper "Enhancing Models through Time Series Observations: The Neural
+This repository contains the codes for the implementations and numerical experimentations of the project: "Enhancing Models through Time Series Observations: The Neural
 Martingales approach"
 
 ## Introduction
